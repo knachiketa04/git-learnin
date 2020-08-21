@@ -1,0 +1,5 @@
+AWS has following offferings in different storage types:
+
+Block - Amazon EBS
+File  - EFS, FSx for Windows File Server, FSx for Lustre
+Object - Amazon S3
